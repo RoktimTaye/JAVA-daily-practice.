@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff724605-6125-4514-8391-f6a0330dee91" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/java/com/TrainTracking/Tracking/Controller/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/java/com/TrainTracking/Tracking/Controller/TrainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/java/com/TrainTracking/Tracking/Controller/TrainSearchController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/java/com/TrainTracking/Tracking/Entity/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/java/com/TrainTracking/Tracking/Entity/Train.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/java/com/TrainTracking/Tracking/Entity/trainSchedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/java/com/TrainTracking/Tracking/Repository/StationReposiotry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/java/com/TrainTracking/Tracking/Repository/TrainRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/java/com/TrainTracking/Tracking/Repository/TrainScheduleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/java/com/TrainTracking/Tracking/Service/TrainSearchService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/java/com/TrainTracking/Tracking/Service/TrainService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/java/com/TrainTracking/Tracking/TrackingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tracking/Tracking/src/test/java/com/TrainTracking/Tracking/TrackingApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RoktimTaye"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RoktimTaye/JAVA-daily-practice.",
+    "accountId": "4f27d878-7f5e-4063-990d-534193546713"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "ff006fff",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2xNDepefFFXYEhRQDajHyy0mGiw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.Train_Tracking [clean].executor": "Run",
+    "Maven.Train_Tracking [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Roktim/Desktop/TrainTracking App",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff724605-6125-4514-8391-f6a0330dee91" name="Changes" comment="" />
+      <created>1747769735812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747769735812</updated>
+    </task>
+    <servers />
+  </component>
+</project>
